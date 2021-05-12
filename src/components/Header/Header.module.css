@@ -1,0 +1,18 @@
+.navBar {
+  display: flex;
+  background-color: gray;
+  justify-content: space-between;
+  padding: 5px;
+  align-items: center;
+  grid-area: header;
+}
+
+.titulo {
+  color: green;
+  font-weight: bold;
+}
+
+.paragrafoGeral {
+  color: red;
+  font-size: 52px;
+}

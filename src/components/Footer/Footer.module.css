@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  color: black;
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  min-width: 100%;
+  grid-area: footer;
+}
+
+.imgFooter {
+  width: 3%;
+}
